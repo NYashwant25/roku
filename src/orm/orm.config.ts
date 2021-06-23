@@ -6,7 +6,7 @@ export const config: TypeOrmModuleOptions = {
     host: 'localhost',
     port: 5432,
     username: 'postgres',
-    password: 'root',
+    password: '1922.comj',
     database: 'roku_db',
     synchronize: true,
     entities: [UserEntity],
